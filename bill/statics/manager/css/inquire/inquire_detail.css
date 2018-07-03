@@ -1,0 +1,156 @@
+/*.rate_span{position: absolute;left: 800px;}*/
+.rate_table{height: 24px;}
+.service{
+    margin:0;
+    padding-left:0px;
+    border:2px solid #cccccc;
+    width:1400px;
+    line-height:1.5em;
+    font-size:12px;
+    background-position: 0 -93px;
+    height: 100px;
+    margin: 5px 0 5px;
+}
+.service ul{
+    margin: 0 0 0 5px;
+    display: inline;
+    float: left;
+    overflow: hidden;
+    padding: 1px 5px 5px 5px;
+}
+.service li{
+   float: left;
+    list-style-type: none;
+    width: 300px;
+}
+
+#main .mainCont-content{
+    margin-top: 0px;
+}
+.task-info-wrap .message_table{
+    margin-bottom: 20px;
+    text-align: right;
+    table-layout: auto;
+}
+#main .task-info-wrap .message_table .task-add-td1{
+    width: 80px;
+}
+#main .task-info-wrap .message_table .task-add-td2{
+    text-align: left;
+}
+#main .task-info-wrap .message_table .task-add-td2 input{
+    width: 80%;
+    margin-left: 20px;
+}
+#main #sex_box input{
+    width: 20px;
+    margin-left: 0px;
+}
+#sex_box{
+    width: 100px;
+    text-align: left;
+    margin-left: 20px;
+}
+.task-add-td3{
+    text-align: left;
+    padding-left: 20px;
+}
+.task-add-td3 p,.task-add .task-info-wrap .task-add-td3 textarea{
+    border: 1px solid #ccc;
+    width: 95%;
+    min-height: 50px;
+    padding: 10px 10px;
+    resize: none;
+}
+.item_title{
+    width: 100px;
+}
+#memo_message{
+    resize: none;
+    width: 90%;
+    min-height: 50px;
+}
+.task-add .task-info-wrap td input{
+    max-width: 300px;
+}
+#inquire_info{
+    margin-bottom: 20px;
+}
+.form_table tr td,#inquire_info tr td{
+    padding: 3px 10px;
+}
+ .task-add #inquire_info .task-add-td1{
+    width: 0px;
+}
+body .task-add .task-info-wrap .form_table label{
+    margin-left: 10px;
+}
+body .task-add .task-info-wrap .tar{
+    text-align: left;
+}
+body .task-add .task-info-wrap td label{
+    margin-left: 0px;
+}
+.form_table td{
+    text-align:  left;
+    height: auto;
+}
+.clause{
+    
+}
+.form_table{
+    margin-bottom: 20px;
+}
+.task-add .task-info-wrap  .charge_item{
+    float: left;
+    padding-left: 0px;
+}
+#adult_add_bed_rate,.task-add .task-info-wrap td .rate_span{
+	padding-right: 646px;
+	float: right;
+}
+.cut_line{
+    border-top: 1px solid #ccc;
+}
+.price_item_big{
+    font-size: 15px;
+}
+.task-add-tips{
+    display: inline-block;
+}
+#profits input{
+    min-width: 120px;
+}
+.room_day_price{
+    padding: 5px;
+    padding-top: 5px;
+}
+#room_detail_list{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.room_day_price{
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    overflow: hidden;
+}
+.item_price{
+    width: 200px;
+}
+.room_day_price span{
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+    min-width: 80px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+.total_room{
+    border-top: 2px solid #ccc;
+}
+#cancel_reson,#deprecated_reson{
+    /*display: none;*/
+}

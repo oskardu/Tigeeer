@@ -1,0 +1,4 @@
+#gallery { width:1038px; list-style-type: none; margin:0px; padding:0px; }
+#gallery li { float:left; padding:5px; width:200px; height:160px; }
+#gallery li div { width:200px; height:140px; border:solid 1px black;  }
+.placeHolder div { background-color:white!important; border:dashed 1px gray !important; }

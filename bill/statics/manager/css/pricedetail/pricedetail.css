@@ -1,0 +1,88 @@
+#price_detail{
+    background-color: #fff;
+    width: 100%;
+}
+#price_detail td{
+    padding: 10px;
+}
+.ville_title{
+    width: 280px;
+}
+.price_detail_tr{
+    border-bottom: 1px solid #ccc;
+}
+.dtr{
+    background-color: #129FEA;
+    color: #fff;
+}
+.doutr{
+
+}
+.paging li{
+    float: left;
+    padding: 10px 5px;
+}
+.paging li a{
+    cursor: pointer;
+}
+.moo{
+    max-width: 250px;
+}
+.pager{
+    overflow: hidden;
+    padding:5px 0 2px 0;
+}
+#price_detail .doutr a.order_number_link{
+    color: #129FEA;
+    text-decoration: underline;
+}
+#price_detail .dtr a.order_number_link{
+    color: #fff;
+    text-decoration: underline;
+}
+#search td{
+    padding: 10px 15px;
+}
+#search input{width:100%;}
+.min_td{
+    width: 100px;
+}
+
+#list_box{
+    width: 1714px;
+    overflow-x: scroll;
+    border: 1px solid rgb(207, 206, 206);
+}
+.main-left{
+    width: 150px;
+}
+#price_detail{
+    min-width: 2500px;
+}
+#t_head{
+    height: 35px;
+    line-height: 35px;
+    background-color: #f1f1f1;
+}
+#main_box{
+    background-color: #fff;
+}
+#search{
+	width:100%;
+}
+.paging{
+	display: inline-block;
+}
+.pager a{
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    background-color: rgb(241, 241, 241);
+}
+.pager .selected a{
+    background-color: #4d90fc;
+    color: #fff;
+}
+
+#main_box{
+    margin-bottom: 50px;
+}

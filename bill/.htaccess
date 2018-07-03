@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^(.*)\.[\d]{8,}\.(css|js|png|jpg|gif)$ $1.$2 [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ /index-dev.php/$1 [L]
+    # php_flag error_reporting E_ALL
+</IfModule>
